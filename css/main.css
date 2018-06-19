@@ -1311,6 +1311,12 @@ article.wrapper-work:first-of-type{
 .insight{
 	background-image: url(../img/works/insight/insight.jpg);
 }
+.kenyacharity{
+	background-image: url(../img/works/kenyacharity/hometop.jpg);
+}
+.mitsubishi{
+	background-image: url(../img/works/mitsubishi/mitsubishi.jpg);
+}
 .cont-title-work{
 	height: 100%;
 	width: 35vw;
